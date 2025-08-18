@@ -1,5 +1,37 @@
-# Ignore api keys and sensitive data
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
 .env
 
-# Exclude cache directory
+# Project specific
 cache/
+articles_index/
+articles.zip
+articles/
+
+# IDE specific
+.vscode/
+.idea/

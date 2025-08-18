@@ -1,0 +1,9 @@
+openai
+ib_insync
+pandas
+jinja2
+streamlit
+python-dotenv
+llama-index
+llama-index-llms-groq
+llama-index-embeddings-huggingface

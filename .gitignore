@@ -1,0 +1,5 @@
+# Ignore api keys and sensitive data
+.env
+
+# Exclude cache directory
+cache/

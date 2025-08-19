@@ -17,7 +17,7 @@ Note: use Python version 3.8 or later
 Clone the repository
 
 ```bash
-git clone "[repository](https://github.com/WambuaMalcolm/Financial-Stock-Project.git)"
+git clone "https://github.com/WambuaMalcolm/Financial-Stock-Project.git"
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
